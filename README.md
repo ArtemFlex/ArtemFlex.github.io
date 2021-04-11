@@ -1,1 +1,10 @@
-# ArtemFlex.github.io
+<HTML>
+<HEAD>
+  <Title>
+    FlexRustMod
+  </Title>
+</HEAD>
+<BODY>
+  Салам
+</BODY>
+</HTML>
