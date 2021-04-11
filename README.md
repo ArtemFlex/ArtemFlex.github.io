@@ -1,10 +1,1 @@
-<HTML>
-<HEAD>
-  <title>
-    FlexRustMod
-  </title>
-</HEAD>
-<BODY>
-  Салам
-</BODY>
-</HTML>
+да да
