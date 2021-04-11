@@ -1,8 +1,8 @@
 <HTML>
 <HEAD>
-  <Title>
+  <title>
     FlexRustMod
-  </Title>
+  </title>
 </HEAD>
 <BODY>
   Салам
